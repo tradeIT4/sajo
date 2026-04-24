@@ -1,0 +1,10 @@
+{
+  "name": "sajo-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix Coffo-1.0.0 run dev",
+    "build": "npm --prefix Coffo-1.0.0 run build",
+    "start": "npm --prefix Coffo-1.0.0 run start",
+    "lint": "npm --prefix Coffo-1.0.0 run lint"
+  }
+}

@@ -1,0 +1,15 @@
+node_modules/
+.next/
+dist/
+out/
+coverage/
+*.log
+
+Coffo-1.0.0/node_modules/
+Coffo-1.0.0/.next/
+Coffo-1.0.0/dist/
+Coffo-1.0.0/out/
+Coffo-1.0.0/coverage/
+Coffo-1.0.0/*.log
+
+.DS_Store
