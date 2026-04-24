@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import ContactForm from "@/components/ContactForm";
 import {
   coffeeCatalog,
   coffeeProcess,
@@ -245,6 +246,7 @@ export function ContactSection() {
           </p>
         </div>
       </section>
+      <ContactForm />
     </>
   );
 }

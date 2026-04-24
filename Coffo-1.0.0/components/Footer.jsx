@@ -46,11 +46,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="section-shell footer-bottom">
-        <p>&copy; {new Date().getFullYear()} {company.name}. All rights reserved.</p>
-        <div className="footer-inline-links">
-          <Link href="/blog">Updates</Link>
-          <Link href="/contact">Contact Us</Link>
-        </div>
+        <p>&copy; {new Date().getFullYear()} Tradethiopia. All rights reserved.</p>
       </div>
     </footer>
   );
