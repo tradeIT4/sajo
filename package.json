@@ -2,6 +2,7 @@
   "name": "sajo-workspace",
   "private": true,
   "scripts": {
+    "postinstall": "npm --prefix Coffo-1.0.0 install",
     "dev": "npm --prefix Coffo-1.0.0 run dev",
     "build": "npm --prefix Coffo-1.0.0 run build",
     "start": "npm --prefix Coffo-1.0.0 run start",
